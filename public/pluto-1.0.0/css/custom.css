@@ -1,0 +1,161 @@
+/*------------------------------------------------------------------
+    File Name: custom.css
+-------------------------------------------------------------------*/
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.logo_login img{
+    position: relative;
+    padding: 25px;
+    width: 150px;
+    
+}
+
+.logo_login h3 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.logo_login {
+    width: 100%;
+    text-align: center;
+}
+
+.image_arsip {
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.judul h3 {
+    text-align: center;
+}
+
+form .col-md-8 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 90px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+  
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 300px;
+}
+  
+#search-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-bulan{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+.field margin_0{
+  padding : 20px;
+}
+
+
+#cari {
+  /* Properti CSS yang ingin Anda terapkan pada elemen dengan ID 'cari' */
+  /* Misalnya: */
+  width: 200px; /* Lebar elemen */
+  height: 40px; /* Tinggi elemen */
+  background-color: #f2f2f2; /* Warna latar belakang */
+  border: 1px solid #ccc; /* Tampilan border */
+  padding: 8px; /* Jarak antara konten dengan border */
+  font-size: 16px; /* Ukuran font */
+  color: #333; /* Warna teks */
+}
+
+.main_bt {
+  margin: 10px;
+}
+
+.background-container {
+   background-image: url('public/pluto-1.0.0/images/logo/bg.png');
+  
+}
+
+.tambah {
+  padding-bottom: 30px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  margin-bottom: 30px;
+}
+
+
+.mt-3 {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+.mt-3:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+  
+  
